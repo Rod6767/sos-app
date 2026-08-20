@@ -1,0 +1,7 @@
+{
+  "name": "Emergency SOS",
+  "description": "One-tap emergency SOS app that retrieves GPS coordinates and sends an SMS with a Google Maps link to emergency contacts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

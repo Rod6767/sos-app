@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Emergency SOS</string>
+    <string name="emergency_sos">EMERGENCY SOS</string>
+    <string name="tap_to_send">Tap to send current GPS location via SMS</string>
+    <string name="locating">Acquiring high-accuracy GPS coordinates…</string>
+    <string name="sending_sms">Dispatching emergency SMS alert…</string>
+    <string name="sms_sent_success">Emergency SMS alert successfully dispatched!</string>
+    <string name="sms_failed">Failed to send SMS. Tap below to launch messaging app.</string>
+</resources>
