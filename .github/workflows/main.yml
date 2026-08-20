@@ -14,6 +14,13 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
 
+      - name: Create Env Files
+        run: |
+          touch .env.example
+          touch .env
+          touch app/.env.example
+          touch app/.env
+
       - name: Setup Gradle
         uses: gradle/actions/setup-gradle@v3
 
